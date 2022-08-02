@@ -1,0 +1,2 @@
+sudo apt install trim_galore
+trim_galore fastqc sequencefile.gz
