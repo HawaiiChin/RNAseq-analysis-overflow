@@ -1,0 +1,5 @@
+*fastqc
+fastqc sequence.fq.gz
+ls -ltr
+
+*fastqc.html
