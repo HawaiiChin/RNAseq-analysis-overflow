@@ -1,0 +1,7 @@
+wget https://github.com/alexdobin/STAR/archive/2.7.10a.tar.gz
+tar -xzf 2.7.10a.tar.gz
+cd STAR-2.7.10a
+mkdir genomeDir
+cd genomeDir
+wget ftp://ftp.ensembl.org/pub/release-107/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.primary_assembly.fa.gz
+wget ftp://ftp.ensembl.org/pub/release-107/gtf/homo_sapiens/Homo_sapiens.GRCh38.107.gtf.gz
